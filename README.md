@@ -6,9 +6,9 @@ Features
 ---------------------------------------------------------------------
 Full 52-card deck (4 suits × 13 cards), shuffled each game
 Accurate Ace handling — counts as 11, drops to 1 to avoid a bust
-Dealer AI — automatically hits until reaching a score of 17 or above
+Dealer — automatically hits until reaching a score of 17 or above
 Live score display after every action
-Input validation — handles unexpected user input gracefully
+Input validation — handles unexpected user input
 Clear win/loss/tie outcome at the end of each game
 ---------------------------------------------------------------------
 How to Play
